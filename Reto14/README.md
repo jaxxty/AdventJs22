@@ -1,3 +1,6 @@
+# Reto numero 14
+## El mejor camino
+
 Santa Claus está construyendo pirámides de hielo en el Polo Norte para entrenar a sus renos.
 
 Cada reno comienza en la cima de la pirámide y debe elegir el camino óptimo hacia abajo para recorrerlo en el menor tiempo posible. Cada nivel tiene un número que determina el tiempo que necesita para llegar ahí.
