@@ -7,3 +7,4 @@ function getOptimalPath(path) {
   return res[0]
 }
 
+
